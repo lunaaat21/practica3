@@ -1,0 +1,31 @@
+/* Este es un comentario en CSS */
+/*LUNA PEREZ MARIANA*/
+/*DAW  FECHA:20/03/24 */
+/* A continuacion le aplicamos CSS a la actividad_(ACT4.HTML).Desde un archivo CSS.(ACT.CSS)*/
+
+h3{
+color:blue;
+text-align:center;
+font-family:optima;
+}
+h5{
+color:maroon;
+}
+.derecha{text-align:right;}
+.izquierda{text-align:left;}
+.centro{text-align:center;}
+
+h4{
+color:blue;
+font-family:cambria;
+text-align:right;
+}
+
+img{
+width:10%;
+height:10%;
+align:center;
+}
+
+</body>
+</html>
